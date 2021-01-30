@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/12890496?s=460&u=874f38122670a3d81e4f261756efba341ce569d7&v=4">
-
 <h2> Hey there! I'm Chibuike.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
