@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at Federal University of Technology Owerri, Nigeria.
+- 🎓 &nbsp; Studied Computer Science at the Federal University of Technology Owerri, Nigeria.
 - 💼 &nbsp; Currently seeking oppurtunities.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Server-side rendering and Bot creation.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Server-side rendering, and Generative AI.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
